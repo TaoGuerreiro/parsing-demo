@@ -1,0 +1,24 @@
+{
+  "beers": [
+    {
+      "Name": "Leffe",
+      "Appearance": "Blonde",
+      "Origin": "Belgium"
+    },
+    {
+      "Name": "Sant Erwan",
+      "Appearance": "Blonde",
+      "Origin": "Brittany"
+    },
+    {
+      "Name": "Hop Shot",
+      "Appearance": "IPA",
+      "Origin": "France"
+    },
+    {
+      "Name": "La Castor",
+      "Appearance": "IPA",
+      "Origin": "Canada"
+    }
+  ]
+}
